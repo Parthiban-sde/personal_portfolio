@@ -41,7 +41,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="https://linkedin.com/in/parthiban-r"
+              href="https://www.linkedin.com/in/parthiban-r-92724a225/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-lg border border-white/20 text-white rounded-xl hover:bg-white/20 transition-all duration-300 hover:scale-110 hover:border-cyan-400/50 group"

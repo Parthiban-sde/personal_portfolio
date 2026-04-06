@@ -27,7 +27,7 @@ export default function Contact() {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'Connect on LinkedIn',
-      link: 'https://linkedin.com/in/parthiban-r',
+      link: 'https://www.linkedin.com/in/parthiban-r-92724a225/',
       color: 'emerald'
     }
   ];

@@ -18,7 +18,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/parthiban-r',
+    href: 'https://www.linkedin.com/in/parthiban-r-92724a225/',
     color: 'hover:text-blue-400 hover:border-blue-400/50',
   },
   {

@@ -25,15 +25,15 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div className="space-y-8 animate-fade-in-left">
               <p className="text-xl text-gray-300 leading-relaxed font-light">
-                I am a dedicated <span className="text-cyan-300 font-semibold">Computer Science Engineer</span> with a strong foundation in software development
-                and data analysis. My passion for <span className="text-blue-300 font-semibold">AI and machine learning</span> drives me to build innovative web
-                applications and data-driven solutions.
+                I am a dedicated <span className="text-cyan-300 font-semibold">Software Engineer</span> with a strong foundation in software development, specializing in <span className="text-blue-300 font-semibold">LLM-based systems</span> such as <span className="text-cyan-300 font-semibold">Retrieval-Augmented Generation (RAG)</span> and <span className="text-teal-300 font-semibold">LLM inference gateways</span>, along with Full Stack development.
               </p>
 
               <p className="text-xl text-gray-300 leading-relaxed font-light">
-                Through academic projects and continuous self-learning, I've strengthened my expertise in
-                emerging technologies. I am eager to collaborate, grow, and apply these technologies to solve
-                real-world challenges.
+                I actively follow current <span className="text-blue-300 font-semibold">AI trends</span> and continuously enhance my skills to stay aligned with the fast-evolving AI landscape. I focus on building intelligent, <span className="text-cyan-300 font-semibold">data-driven web applications</span> by integrating modern AI technologies into real-world solutions.
+              </p>
+
+              <p className="text-xl text-gray-300 leading-relaxed font-light">
+                With a passion for <span className="text-teal-300 font-semibold">continuous learning</span>, I aim to leverage cutting-edge advancements to develop <span className="text-blue-300 font-semibold">scalable and impactful software systems</span>.
               </p>
 
               <div className="flex items-center gap-3 text-gray-300 group cursor-pointer hover:text-cyan-300 transition-colors duration-300">
