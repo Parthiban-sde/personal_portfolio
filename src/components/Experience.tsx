@@ -92,7 +92,7 @@ export default function Experience() {
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-cyan-400 mt-1.5 font-bold">→</span>
-                    <span className="group-hover:text-gray-200 transition-colors">Building intelligent systems with Large Language Models (LLM) &amp; Artificial Intelligence</span>
+                    <span className="group-hover:text-gray-200 transition-colors">Building intelligent systems with Large Language Models (LLM) &amp; Artificial Intelligence, LLM optimization & inference scaling</span>
                   </li>
                 </ul>
                 <div className="flex flex-wrap gap-2 mt-5">

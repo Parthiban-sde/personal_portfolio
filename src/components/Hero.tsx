@@ -26,8 +26,18 @@ export default function Hero() {
             </h1>
           </div>
 
-          <p className="text-xl md:text-2xl text-gray-200 mb-8 animate-fade-in-up animation-delay-200 leading-relaxed font-light tracking-wide">
-            Building innovative solutions with <span className="text-cyan-300 font-semibold">AI</span>, <span className="text-blue-300 font-semibold">LLM</span>, <span className="text-cyan-300 font-semibold">Machine Learning</span> & <span className="text-teal-300 font-semibold">Modern Web</span>
+          <div className="mb-6 animate-fade-in-up animation-delay-200">
+            <p className="text-xl md:text-2xl font-semibold tracking-wide">
+              <span className="text-cyan-300">Software Engineer</span>
+              <span className="text-gray-500 mx-3">|</span>
+              <span className="text-blue-300">LLM Inference AI Engineer</span>
+              <span className="text-gray-500 mx-3">|</span>
+              <span className="text-teal-300">Full Stack Developer</span>
+            </p>
+          </div>
+
+          <p className="text-lg md:text-xl text-gray-400 mb-8 animate-fade-in-up animation-delay-300 leading-relaxed font-light tracking-wide max-w-2xl mx-auto">
+            Building scalable AI systems using <span className="text-cyan-400 font-medium">RAG</span>, <span className="text-blue-400 font-medium">LLM inference gateways</span>, and <span className="text-cyan-400 font-medium">Modern Web</span> technologies.
           </p>
 
           <div className="flex flex-wrap justify-center gap-4 mb-16 animate-fade-in-up animation-delay-400">

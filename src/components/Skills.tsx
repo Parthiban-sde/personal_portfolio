@@ -1,42 +1,42 @@
-import { Code2, Database, Brain, Palette, Users, Zap, Sparkles } from 'lucide-react';
+import { Code2, Brain, Palette, Users, Zap, Sparkles, Award } from 'lucide-react';
 
 export default function Skills() {
   const skillCategories = [
     {
-      title: 'Programming Languages',
-      icon: Code2,
+      title: 'AI / LLM',
+      icon: Brain,
       color: 'cyan',
-      skills: ['C/C++', 'Java', 'Python', 'JavaScript', 'PHP', 'SQL']
+      skills: ['LLM Inference', 'RAG (Retrieval-Augmented Generation)', 'LangChain', 'OpenAI API', 'Hugging Face', 'Machine Learning', 'Deep Learning', 'Prompt Engineering']
     },
     {
-      title: 'Web Technologies',
+      title: 'Frontend',
       icon: Palette,
       color: 'blue',
-      skills: ['HTML', 'React', 'Node.js', 'Tailwind CSS']
+      skills: ['React', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'Vite']
     },
     {
-      title: 'AI & Data Science',
-      icon: Brain,
+      title: 'Backend',
+      icon: Code2,
       color: 'teal',
-      skills: ['Deep Learning', 'Data Structures', 'Machine Learning']
+      skills: ['Node.js', 'Python', 'FastAPI', 'REST APIs', 'SQL', 'MySQL', 'PostgreSQL']
     },
     {
-      title: 'Database & Systems',
-      icon: Database,
+      title: 'Tools & DevOps',
+      icon: Zap,
       color: 'emerald',
-      skills: ['MySQL', 'OOPS', 'Networks']
+      skills: ['Git', 'GitHub', 'Docker', 'Linux', 'VS Code', 'Postman']
     },
     {
-      title: 'Professional Skills',
+      title: 'Others',
       icon: Users,
       color: 'cyan',
-      skills: ['Leadership', 'Communication', 'Teamwork', 'Documentation', 'Finance Handling']
+      skills: ['C/C++', 'Java', 'Data Structures', 'OOP', 'Japanese (Learning)', 'Leadership', 'Problem Solving']
     },
     {
-      title: 'Personal Attributes',
-      icon: Zap,
+      title: 'Activities & Involvement',
+      icon: Award,
       color: 'blue',
-      skills: ['Problem Solving', 'Adaptability', 'Creativity', 'Self Discipline', 'Work Ethic', 'Self Motivation']
+      skills: ["Financial Analysis", "Data Analysis", "Continuous Learning", "Emerging Technologies Enthusiast", "Strong Work Ethic", "Dedicated & Result-Oriented"]
     }
   ];
 
