@@ -62,7 +62,7 @@ export default function Footer() {
                 <Code2 className="w-5 h-5 text-cyan-400" />
               </div>
               <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-300 via-blue-300 to-teal-300">
-                Parthiban R
+                RAMAN PARTHIBAN
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
@@ -127,7 +127,7 @@ export default function Footer() {
 
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm flex items-center gap-1.5">
-            © {new Date().getFullYear()} Parthiban R · Built with
+            © {new Date().getFullYear()} RAMAN PARTHIBAN · Built with
             <Heart className="w-3.5 h-3.5 text-cyan-500 fill-cyan-500 inline-block" />
             using React &amp; Tailwind CSS
           </p>

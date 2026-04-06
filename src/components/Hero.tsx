@@ -22,12 +22,12 @@ export default function Hero() {
 
           <div className="perspective mb-8">
             <h1 className="text-7xl md:text-8xl font-bold mb-6 animate-fade-in-up bg-clip-text text-transparent bg-gradient-to-r from-cyan-300 via-blue-300 to-teal-300 transform transition-all duration-500 hover:from-cyan-200 hover:via-blue-200 hover:to-teal-200" style={{ textShadow: '0 0 30px rgba(0, 188, 212, 0.3)' }}>
-              Parthiban Raman
+              Raman Parthiban
             </h1>
           </div>
 
           <p className="text-xl md:text-2xl text-gray-200 mb-8 animate-fade-in-up animation-delay-200 leading-relaxed font-light tracking-wide">
-            Building innovative solutions with <span className="text-cyan-300 font-semibold">AI</span>, <span className="text-blue-300 font-semibold">Machine Learning</span> & <span className="text-teal-300 font-semibold">Modern Web</span>
+            Building innovative solutions with <span className="text-cyan-300 font-semibold">AI</span>, <span className="text-blue-300 font-semibold">LLM</span>, <span className="text-cyan-300 font-semibold">Machine Learning</span> & <span className="text-teal-300 font-semibold">Modern Web</span>
           </p>
 
           <div className="flex flex-wrap justify-center gap-4 mb-16 animate-fade-in-up animation-delay-400">
@@ -51,11 +51,11 @@ export default function Hero() {
             </a>
 
             <a
-              href="tel:+919894966090"
+              href="tel:+819081317352"
               className="flex items-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-lg border border-white/20 text-white rounded-xl hover:bg-white/20 transition-all duration-300 hover:scale-110 hover:border-teal-400/50 group"
             >
               <Phone className="w-5 h-5 group-hover:text-teal-300" />
-              <span className="font-semibold">+91 98949 66090</span>
+              <span className="font-semibold">+81 90813 17352</span>
             </a>
           </div>
 

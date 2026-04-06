@@ -72,7 +72,7 @@ export default function Header() {
               <Code2 className="w-4 h-4 text-cyan-400" />
             </div>
             <span className="font-bold text-lg bg-clip-text text-transparent bg-gradient-to-r from-cyan-300 via-blue-300 to-teal-300 group-hover:from-cyan-200 group-hover:via-blue-200 group-hover:to-teal-200 transition-all duration-300">
-              Parthiban R
+              RAMAN PARTHIBAN
             </span>
           </a>
 
