@@ -40,7 +40,7 @@ export default function About() {
                 <div className="p-3 bg-cyan-500/20 rounded-lg group-hover:scale-110 group-hover:animate-rotate-y transition-all duration-300">
                   <MapPin className="w-6 h-6 text-cyan-400 group-hover:animate-float-bounce" />
                 </div>
-                <span className="text-lg font-medium">Chennai, India</span>
+                <span className="text-lg font-medium">Tokyo, Japan</span>
               </div>
             </div>
 

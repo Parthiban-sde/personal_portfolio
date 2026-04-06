@@ -12,14 +12,14 @@ export default function Contact() {
     {
       icon: Phone,
       label: 'Phone',
-      value: '+91 98949 66090',
-      link: 'tel:+919894966090',
+      value: '+819081317352',
+      link: 'tel:+819081317352',
       color: 'blue'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Chennai, India',
+      value: 'Tokyo, Japan',
       link: null,
       color: 'teal'
     },
@@ -113,9 +113,6 @@ export default function Contact() {
         </div>
       </div>
 
-      <div className="text-center mt-16 text-gray-400">
-        <p>&copy; 2025 Parthiban R. Built with React & Tailwind CSS</p>
-      </div>
     </section>
   );
 }

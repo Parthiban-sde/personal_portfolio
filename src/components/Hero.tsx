@@ -16,13 +16,13 @@ export default function Hero() {
           <div className="animate-fade-in-down">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-cyan-500/20 to-blue-500/20 backdrop-blur-lg border border-cyan-400/30 rounded-full mb-6 animate-scale-up hover:animate-pulse-glow transition-all duration-300">
               <Code2 className="w-4 h-4 text-cyan-400 animate-float-bounce" />
-              <span className="text-sm text-cyan-300 font-semibold">Computer Science Engineer</span>
+              <span className="text-sm text-cyan-300 font-semibold">Software Engineer</span>
             </div>
           </div>
 
           <div className="perspective mb-8">
             <h1 className="text-7xl md:text-8xl font-bold mb-6 animate-fade-in-up bg-clip-text text-transparent bg-gradient-to-r from-cyan-300 via-blue-300 to-teal-300 transform transition-all duration-500 hover:from-cyan-200 hover:via-blue-200 hover:to-teal-200" style={{ textShadow: '0 0 30px rgba(0, 188, 212, 0.3)' }}>
-              Parthiban R
+              Parthiban Raman
             </h1>
           </div>
 
