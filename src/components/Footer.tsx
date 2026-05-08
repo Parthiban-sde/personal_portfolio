@@ -12,7 +12,7 @@ const socialLinks = [
   {
     icon: Github,
     label: 'GitHub',
-    href: 'https://github.com/parthiban-r',
+    href: 'https://github.com/Parthiban-sde',
     color: 'hover:text-cyan-400 hover:border-cyan-400/50',
   },
   {
